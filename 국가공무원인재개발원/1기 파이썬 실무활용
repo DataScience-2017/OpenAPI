@@ -1,0 +1,5 @@
+anaconda prompt(miniconda3)
+conda update conda
+conda create -n nhi #가상환경 구축
+conda info --envs
+activate nhi
